@@ -1,8 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/G5TKDgC/20240727-185919.jpg" group-title="BDIX IPTV HUB",@bdixiptvhub
+https://dai.fancode.com/linear/hls/pb/event/rd6paGwVQr6_UoJTSZvFvQ/stream/9c4cb3f5-6527-4cae-8a2e-43c9e7d256a5:SIN/variant/dd3f641466c2625dca5d8621ba17747f/bandwidth/957816.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NCxZwqT/20240728-053431.png" group-title="FANCODE", Chiba Sharks Vs Max Club
-
+https://dai.fancode.com/linear/hls/pb/event/rd6paGwVQr6_UoJTSZvFvQ/stream/9c4cb3f5-6527-4cae-8a2e-43c9e7d256a5:SIN/variant/dd3f641466c2625dca5d8621ba17747f/bandwidth/957816.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NCxZwqT/20240728-053431.png" group-title="FANCODE", Central Smashers Vs Western Warriors
 
