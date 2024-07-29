@@ -2,11 +2,11 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co/G5TKDgC/20240727-185919.jpg" group-title="BDIX IPTV HUB",@bdixiptvhub
 https://dai.fancode.com/linear/hls/pb/event/rd6paGwVQr6_UoJTSZvFvQ/stream/9c4cb3f5-6527-4cae-8a2e-43c9e7d256a5:SIN/variant/dd3f641466c2625dca5d8621ba17747f/bandwidth/957816.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NCxZwqT/20240728-053431.png" group-title="FANCODE", Hungary vs Romania
-https://dai.fancode.com/linear/hls/pb/event/zbirCG06QMaFK2CPt0CQNg/stream/3984c5eb-c2d2-46e1-b92e-9a6312e55170:SIN2/variant/5f28fbb19f54fa87490a9ec69b3b5055/bandwidth/1245960.m3u866c2625dca5d8621ba17747f/bandwidth/957816.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NCxZwqT/20240728-053431.png" group-title="FANCODE", Purandar Protectors vs Lohgad Lions
+https://dai.fancode.com/linear/hls/pb/event/wTRKge4PSxmx214d0yPzkg/stream/2849036e-e38a-43cc-bd6f-3e25d28b39b3:SIN2/variant/f65e89c309588e2878ecc5b4f16ea28a/bandwidth/957816.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NCxZwqT/20240728-053431.png" group-title="FANCODE", Zimbabwe vs Ireland
-https://dai.fancode.com/linear/hls/pb/event/LxaSxk0RSvqTxDAfG_xM2Q/stream/e49fe5dd-b165-41c8-9f73-14a2b39fcd91:SIN/variant/79c4b7855a0fff8b52a7a5eba56c9caa/bandwidth/957816.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NCxZwqT/20240728-053431.png" group-title="FANCODE", NFRSA Women vs 91 Yards Club Women
+https://dai.fancode.com/linear/hls/pb/event/xpn64XxHRWeYzJui2zzb9Q/stream/15e40753-47b7-4378-99ae-6f08353d4206:TPE/variant/33674eae1cc9f003166711845607155d/bandwidth/957816.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NCxZwqT/20240728-053431.png" group-title="FANCODE", Worcestershire vs Durham
 https://dai.fancode.com/linear/hls/pb/event/M4x3iCQwQsm_mYWe7rr9Gg/stream/3399badf-75bb-412f-ab7e-87d85a9ea1d5:TPE/variant/f538e9a1735985e1d1ec4ebb7cee115f/bandwidth/957816.m3u8
